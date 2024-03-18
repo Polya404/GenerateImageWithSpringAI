@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: OpenAIAPI
+
+  ai:
+    openai:
+      api-key:
+
+    stabilityai:
+      api-key:
